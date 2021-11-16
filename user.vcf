@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Bigornia;Nick;;;
+FN: Nick  Bigornia 
+ORG:Green Climate Fund;
+TITLE:Process Optimisation Assistant\nProducts Team, Division of Support Services
+EMAIL;type=INTERNET;type=WORK;type=pref:kbigornia@gcfund.org
+TEL;type=WORK;type=VOICE:+82 10 7240 6331
+item1.ADR;type=WORK;type=pref:;;175 Art center-daero\nYeonsu-gu\, Incheon;;;22004;Republic of Korea
+item1.X-ABADR:sg
+item2.URL;type=pref:greenclimate.fund
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
