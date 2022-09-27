@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Bigornia;Nick;;;
 FN: Nick  Bigornia 
-ORG:King's College London;
-TITLE:Graduate Student\nDefence Studies Department
-EMAIL;type=INTERNET;type=WORK;type=pref:nick.bigornia@outlook.com
+ORG:Organization for the Prohibition of Chemical Weapons;
+TITLE:Office of Confidentiality and Security
+EMAIL;type=INTERNET;type=WORK;type=pref:nica.bigornia@opcw.org
 TEL;type=WORK;type=VOICE:+31 (0) 6 47 06 20 42
-item1.ADR;type=WORK;type=pref:;;Strand\nLondon\, London;;;WC2R 2LS;United Kingdom
+item1.ADR;type=WORK;type=pref:;;Johan de Wittlaan 32\2517 JR Den Haag\, Johan de Wittlaan 32 Den Haag;;;2517 JR;The Netherlands
 item1.X-ABADR:sg
 item2.URL;type=pref:kcl.ac.uk/dsd
 item2.X-ABLabel:_$!<HomePage>!$_
